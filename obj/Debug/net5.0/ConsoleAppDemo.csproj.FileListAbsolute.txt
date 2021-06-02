@@ -1,0 +1,15 @@
+/Users/jaruwanpanyaood/ConsoleAppDemo/bin/Debug/net5.0/ConsoleAppDemo.deps.json
+/Users/jaruwanpanyaood/ConsoleAppDemo/bin/Debug/net5.0/ConsoleAppDemo.runtimeconfig.json
+/Users/jaruwanpanyaood/ConsoleAppDemo/bin/Debug/net5.0/ConsoleAppDemo.runtimeconfig.dev.json
+/Users/jaruwanpanyaood/ConsoleAppDemo/bin/Debug/net5.0/ConsoleAppDemo.dll
+/Users/jaruwanpanyaood/ConsoleAppDemo/bin/Debug/net5.0/ref/ConsoleAppDemo.dll
+/Users/jaruwanpanyaood/ConsoleAppDemo/bin/Debug/net5.0/ConsoleAppDemo.pdb
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.csprojAssemblyReference.cache
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.AssemblyInfoInputs.cache
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.AssemblyInfo.cs
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.csproj.CoreCompileInputs.cache
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.dll
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ref/ConsoleAppDemo.dll
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.pdb
+/Users/jaruwanpanyaood/ConsoleAppDemo/obj/Debug/net5.0/ConsoleAppDemo.genruntimeconfig.cache
